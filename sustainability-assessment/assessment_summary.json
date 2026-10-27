@@ -1,0 +1,20 @@
+{
+  "total_original_rows": 5936,
+  "clear_sustainability_connection_rows": 159,
+  "manual_review_rows": 1666,
+  "no_clear_evidence_rows": 4111,
+  "missing_or_conflicting_description_rows": 273,
+  "source_quality_review_rows": 285,
+  "clear_unique_course_codes": 158,
+  "clear_theme_counts": {
+    "Sustainable design, infrastructure and business reporting": 15,
+    "Environmental protection, pollution and environmental health": 27,
+    "Health equity, community wellbeing and disaster resilience": 10,
+    "Poverty, equitable development and resource challenges": 12,
+    "Human rights, equity, inclusion and social justice": 24,
+    "Climate and energy transition": 10,
+    "Conservation, ecosystems and sustainable resource management": 42,
+    "Humanitarian engineering": 8,
+    "Water resources and sanitation": 11
+  }
+}
