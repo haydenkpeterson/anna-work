@@ -1,0 +1,19 @@
+{
+  "total_courses_original_rows": 5936,
+  "descriptions_successfully_retrieved": 5663,
+  "records_needing_manual_review": 285,
+  "missing_official_descriptions": 271,
+  "conflicting_description_rows": 2,
+  "rows_in_duplicate_groups": 10,
+  "ambiguous_identifier_rows": 10,
+  "catalog_code_mismatch_rows": 6,
+  "unmatched_rows": 0,
+  "official_department_not_provided_rows": 180,
+  "retrieval_status_counts": {
+    "missing_official_description": 271,
+    "retrieved": 5651,
+    "retrieved_identical_description_ambiguous_id": 8,
+    "retrieved_catalog_code_mismatch": 4,
+    "conflicting_catalog_descriptions": 2
+  }
+}
